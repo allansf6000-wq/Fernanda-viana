@@ -1,0 +1,6 @@
+{
+  "name": "Nihongo Gakuen - Aventura Japonesa com Fernanda",
+  "description": "Aprenda Hiragana, Katakana, Kanji e conversação em japonês explorando uma escola interativa com a professora Fernanda, com desafios de áudio, escrita de traços e progressão de fases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
